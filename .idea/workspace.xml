@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dce4fe35-cd78-4d52-b04f-30fd18e362df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/North-Carolina-Household-Analysis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdvancedDataVisualization.R" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicAnalysis.R" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HypothesisAndConfidenceLevel.R" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntermediateAnalysis.R" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnemploymentRateCISimulation.do" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/acsnc2022.Rdata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stataOutput.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="dce4fe35-cd78-4d52-b04f-30fd18e362df" name="Changes" comment="Fix: Added R and Stata Scripts" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,8 +71,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710277815727</updated>
-      <workItem from="1710277817902" duration="1135000" />
+      <workItem from="1710277817902" duration="1278000" />
     </task>
+    <task id="LOCAL-00001" summary="Fix: Added R and Stata Scripts">
+      <option name="closed" value="true" />
+      <created>1710279089889</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710279089889</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,5 +89,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Fix: Added R and Stata Scripts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix: Added R and Stata Scripts" />
   </component>
 </project>
