@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dce4fe35-cd78-4d52-b04f-30fd18e362df" name="Changes" comment="Fix: Added R and Stata Scripts" />
+    <list default="true" id="dce4fe35-cd78-4d52-b04f-30fd18e362df" name="Changes" comment="Fix: Added R and Stata Scripts">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smoking_data/smoking_raw.R" beforeDir="false" afterPath="$PROJECT_DIR$/smoking_analysis.R" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +16,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "hoangsonww"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/hoangsonww/North-Carolina-Household-Analysis.git",
+    "accountId": "25e1bf6d-5d64-4560-9e80-1fa040732331"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -53,17 +68,21 @@
       <recent name="C:\Users\hoang\IdeaProjects\North-Carolina-Household-Analysis" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hoang\WebstormProjects\North-Carolina-Household-Analysis" />
       <recent name="C:\Users\hoang\IdeaProjects\North-Carolina-Household-Analysis" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-WS-241.14494.235" />
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SwiftWorkspaceSettings">
+    <option name="detectedToolchain" value="true" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="dce4fe35-cd78-4d52-b04f-30fd18e362df" name="Changes" comment="" />
@@ -73,6 +92,7 @@
       <updated>1710277815727</updated>
       <workItem from="1710277817902" duration="1278000" />
       <workItem from="1710281914929" duration="12000" />
+      <workItem from="1713923944289" duration="448000" />
     </task>
     <task id="LOCAL-00001" summary="Fix: Added R and Stata Scripts">
       <option name="closed" value="true" />
