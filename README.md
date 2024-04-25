@@ -47,6 +47,10 @@ Here is the output of this file, if you're interested:
 
 *NOTE: Feel free to add more Data Analysis and Visualization scripts as you wish!*
 
+### 6. `Additional_R_Scripts`
+
+There is also a `Additional_R_Scripts` subdirectory for more R scripts. Feel free to run them to gain more insights about the ACS data!
+
 ## Getting Started
 
 To get started with this repository, you'll need R installed on your machine along with the following R packages:
