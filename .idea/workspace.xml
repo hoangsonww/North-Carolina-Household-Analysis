@@ -13,6 +13,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "hoangsonww"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/hoangsonww/North-Carolina-Household-Analysis.git",
+    "accountId": "45c9842d-1288-4e81-9f85-b94a10eb7729"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -59,7 +71,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
       </set>
     </attachedChunks>
   </component>
@@ -74,6 +87,7 @@
       <workItem from="1710277817902" duration="1278000" />
       <workItem from="1710281914929" duration="12000" />
       <workItem from="1710352818555" duration="32000" />
+      <workItem from="1714064269345" duration="305000" />
     </task>
     <task id="LOCAL-00001" summary="Fix: Added R and Stata Scripts">
       <option name="closed" value="true" />
@@ -99,7 +113,39 @@
       <option name="project" value="LOCAL" />
       <updated>1710352841705</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fix: Added R and Stata Scripts">
+      <option name="closed" value="true" />
+      <created>1714064272700</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714064272700</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fix: Added R and Stata Scripts">
+      <option name="closed" value="true" />
+      <created>1714064519175</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714064519175</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fix: Added R and Stata Scripts">
+      <option name="closed" value="true" />
+      <created>1714064528612</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714064528612</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fix: Added R and Stata Scripts">
+      <option name="closed" value="true" />
+      <created>1714064573892</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1714064573892</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
