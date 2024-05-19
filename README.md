@@ -125,4 +125,4 @@ For any queries or further discussions, please open an issue in the repository, 
 
 ---
 
-Created with ❤️ by [Son Nguyen](https://github.com/hoangsonww) in 2024.
+Created with ❤️ by [Son Nguyen](https://github.com/hoangsonww) in 2024. Thank you for visiting! 🚀

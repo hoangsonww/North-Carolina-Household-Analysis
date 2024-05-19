@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dce4fe35-cd78-4d52-b04f-30fd18e362df" name="Changes" comment="Fix: Added R and Stata Scripts" />
+    <list default="true" id="dce4fe35-cd78-4d52-b04f-30fd18e362df" name="Changes" comment="Fix: Added R and Stata Scripts">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,16 +15,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "hoangsonww"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;hoangsonww&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/hoangsonww/North-Carolina-Household-Analysis.git",
-    "accountId": "45c9842d-1288-4e81-9f85-b94a10eb7729"
+    "accountId": "7aed4cc4-2c10-4afd-b1b1-f9443cf32ff5"
   }
 }]]></component>
   <component name="MarkdownSettingsMigration">
@@ -71,8 +73,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
       </set>
     </attachedChunks>
   </component>
@@ -88,6 +90,7 @@
       <workItem from="1710281914929" duration="12000" />
       <workItem from="1710352818555" duration="32000" />
       <workItem from="1714064269345" duration="305000" />
+      <workItem from="1716113467021" duration="22000" />
     </task>
     <task id="LOCAL-00001" summary="Fix: Added R and Stata Scripts">
       <option name="closed" value="true" />
@@ -145,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714064573892</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Fix: Added R and Stata Scripts">
+      <option name="closed" value="true" />
+      <created>1716113475575</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1716113475575</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
