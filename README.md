@@ -117,7 +117,7 @@ Contributions to this analysis are welcome. Please feel free to fork the reposit
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [MIT License](LICENSE). Visit the License file for more information.
 
 ## Contact
 
