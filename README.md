@@ -1,4 +1,4 @@
-# North Carolina ACS Data Analysis 2022
+# 2022 North Carolina ACS Data Analysis in R and Stata
 
 Welcome to the repository for data analysis on the American Community Survey (ACS) 2022 focusing on the state of North Carolina. This project examines a wide array of demographic and economic data concerning individuals aged 25 and older. With 75,340 observations, our analysis aims to uncover patterns related to education and income across different cities in North Carolina.
 
